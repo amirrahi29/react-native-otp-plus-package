@@ -3,7 +3,8 @@
 1. Install this package.
 2. npm package url: https://www.npmjs.com/package/react-native-otp-plus
 
-![Screenshot_20230506_225557](https://user-images.githubusercontent.com/107117774/236638501-d14bae48-875f-47c7-9713-2b5d67fe651c.jpg)
+![New Project (1)](https://user-images.githubusercontent.com/107117774/236638581-3d623c38-b228-4681-95fd-d4a2ecd1b8b8.png)
+
 
 3. use this below written code
 
