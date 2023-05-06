@@ -1,7 +1,8 @@
 # Process to use this package
 
 1. Install this package.
-2. use this below written code
+2. npm package url: https://www.npmjs.com/package/react-native-otp-plus
+3. use this below written code
 
 
 
